@@ -2,3 +2,5 @@ AModernStory.com
 
 #Java CORS Working example
 Includes custom CORS filter and Catalina CORS filter
+
+[Using CORS Headers with Java](http://amodernstory.com/2014/12/27/using-cors-headers-with-java-example/)
